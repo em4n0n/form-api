@@ -1,3 +1,4 @@
 from django.shortcuts import render
+from myapp.forms import InputForm
 
 # Create your views here.
